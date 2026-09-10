@@ -1,7 +1,8 @@
-# Hi , I'm Saiprasad Gaikwad 
+# Hi , I'm Saiprasad Gaikwad ⚡⚡
 Electrical Engineering Student , 
-python learner
-# skills
+python learner 🐍🐍
+
+# skills 🛠🛠
 # programming
 
 python ,
@@ -16,8 +17,9 @@ python ,
 python full stack development 
 
 # project 
-3 phase overhead line fault detection 
+⚡3 phase overhead line fault detection 
 
 
 
-# Thanks for visiting my profile!
+
+# ⭐⭐Thanks for visiting my profile!

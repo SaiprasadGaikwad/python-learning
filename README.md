@@ -1,19 +1,23 @@
 # Hi , I'm Saiprasad Gaikwad 
-Electrical Engineering Student 
+Electrical Engineering Student , 
 python learner
 # skills
 # programming
-python 
+
+python ,
 
 # Electrical 
-electrical machines
+ 
+electrical machines , 
 power systems
 
 # currently learning 
-python 
+python , 
 python full stack development 
 
 # project 
 3 phase overhead line fault detection 
+
+
 
 # Thanks for visiting my profile!
